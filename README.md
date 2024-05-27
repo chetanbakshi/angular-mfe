@@ -1,4 +1,4 @@
-# Mfe
+# Angular Micro Front End (MFE)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
 
