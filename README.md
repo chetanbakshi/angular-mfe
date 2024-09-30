@@ -4,7 +4,7 @@
 
 Clone this repository
 
-Run below commands in a below sequence
+Run below commands in a below sequence\
 `npm install`\
 `npm run core`\
 `npm run mfe1`\
